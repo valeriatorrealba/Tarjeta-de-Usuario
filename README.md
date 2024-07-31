@@ -1,6 +1,7 @@
 # Tarjeta de Usuario
 
-Esta es una página de tarjeta de usuario diseñada para mostrar la información personal de un usuario. La página está estructurada con HTML y estilizada con CSS.
+Esta es una página de tarjeta de usuario diseñada para mostrar la información personal de un usuario. La página está estructurada con HTML y 
+estilizada con CSS.
 
 ## Vista del Diseño
 
